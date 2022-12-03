@@ -1,0 +1,22 @@
+p{
+	color: red;
+}
+
+h3{
+	color: limegreen;
+}
+
+.about-list-item{
+	font-style: italic;
+}
+
+#My-name{
+	color: blue;
+}
+
+/*
+Element selector
+Class selector
+ID selector 
+*/
+

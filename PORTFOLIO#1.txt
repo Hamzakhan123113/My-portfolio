@@ -1,0 +1,75 @@
+<!doctype html>
+<!DOCTYPE html>
+<html>
+<head>
+	<title> My portfolio</title>
+</head>
+<body>
+
+<div>
+	<img src="https://via.placeholder.com/150C/O https://placeholder.com/">
+	<h1> Hamza khan</h1>
+	<h3> Web Developer </h3>
+	<p> {{ NO PAIN! NO GAIN!}}</p>
+</div>
+
+<div>
+	<div>
+	<h1> I am</h1>
+		<ul>
+			<li>an software engineer</li>
+			<li>An reader</li>
+			<li>An hobby cook</li>
+		</ul>
+     </div>
+
+       <div>
+	<h1>I like to</h1>
+    	<ul>
+    		<li>Make new friends</li>
+    		<li>To play cricket</li>
+    		<li>To do coding</li>
+    	</ul>
+       </div>
+</div>
+
+<div>
+	<h3>My project</h3>
+	<img src="https://via.placeholder.com/300C/O https://placeholder.com">
+	<img src="https://via.placeholder.com/300C/O https://placeholder.com">
+	<img src="https://via.placeholder.com/300C/O https://placeholder.com">
+	<img src="https://via.placeholder.com/300C/O https://placeholder.com">
+</div>
+
+<div>
+	<h3>Links</h3>
+	  <ul>
+		<li>
+			<a href="https://github.com/<user>">Github</a>
+		</li>
+
+		<li>
+			<a href="https://twitter.com/<user>">Twitter</a>
+		</li>
+
+		<li>
+			<a href="https://linkedin.com/in/<user>">Linkedin</a>
+		</li>
+	  </ul>
+</div>
+
+<div>
+	<form action="#">
+		<label for="email">
+			email: <input id="email" placeholder="enter your email" />
+		</label>
+
+		<label for="message">
+			message: <textarea id="message">Your Message</textarea>
+		</label>
+		<input type="submit" value="Send Message">
+	</form>
+</div>
+
+</body>
+</html>
